@@ -1,0 +1,5 @@
+name: practiceapp
+
+services:
+  flask_app:
+    
